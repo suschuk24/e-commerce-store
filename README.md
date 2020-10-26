@@ -27,7 +27,7 @@ This database contains three interlinked tables that consist of different categr
 
 ## Walkthrough Video
 
-[Walkthrough Video]( "Walkthrough Video")
+[Walkthrough Video](https://drive.google.com/file/d/1awcNHy6l-v6FrG1n8qZJ8-jrHKWICuSw/view)("Walkthrough Video")
 
 ## User Story:
 * AS A manager at an internet retail company
